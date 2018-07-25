@@ -1,5 +1,5 @@
 # ngudbhav.github.io
-My Resume Website access from here http://www.ngudbhav.me. 
+My Resume Website access from here https://www.ngudbhav.me. 
 
 # Information
 This is my own portfolio website. This page contains information about my knowledge, my some of the bio-data, contributions to github and finally a form to mail me directly
